@@ -1,0 +1,27 @@
+some steps we should follow then our project master branch updated
+
+Following steps is here:-
+
+1- when we start our project always git pull command
+command      " git pull origin master "
+2- For create new branch 
+command      " git branch -b "Your Branch Name"  "
+3-For commit your changes then write this command
+follow 3 steps:-
+
+1-  git add .  
+2- git commit -m  "your changes text"
+
+3-if you want to push then 
+command  git push origin "your branch-name"
+
+4-if you want to switch b/w branch then:-
+command   "git checkout "switch branch name" 
+
+// For Apk
+flutter build apk --build-name=1.0.1 --build-number=2
+
+// Places Api Documentation
+https://developers.google.com/places/web-service/autocomplete
+
+
