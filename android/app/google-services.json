@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "115763004325",
+    "firebase_url": "https://news-portal-3b191.firebaseio.com",
+    "project_id": "news-portal-3b191",
+    "storage_bucket": "news-portal-3b191.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115763004325:android:bd6f81cb13e093fb681e4c",
+        "android_client_info": {
+          "package_name": "com.example.News_Portal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115763004325-q6nncc31k83osg6gu12d1v4mgk45ehut.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXGcz1B-GZW7TGqOpIwWBfrgsvjBcu1tA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115763004325-q6nncc31k83osg6gu12d1v4mgk45ehut.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
