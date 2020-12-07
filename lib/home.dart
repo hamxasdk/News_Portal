@@ -36,7 +36,7 @@ class _HomeState extends State<Home> {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: AppBar(
-        title: Center(child: new Text('News Portal')),
+        title: Center(child: new Text('News PortaL')),
         backgroundColor: Colors.white54,
       ),
       // Drawer Start
